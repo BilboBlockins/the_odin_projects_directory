@@ -3,4 +3,4 @@ List of repo/website project links for each of The Odin Project's projects I've 
 
 FOUNDATIONS:
 
-Project: Recipes - [CODE](https://github.com/BilboBlockins/odin-recipes-harry-potter) | [LIVE PREVIEW](https://bilboblockins.github.io/odin-recipes-harry-potter/)
+Project: Hogwarts Express Drink Recipes - [CODE](https://github.com/BilboBlockins/odin-recipes-harry-potter) | [LIVE PREVIEW](https://bilboblockins.github.io/odin-recipes-harry-potter/)
